@@ -1,9 +1,9 @@
 # Simulation codes
-Vib_Controller: run it for system trajectories of simulations.
+Vib_Controller: run it to generate system trajectories in the simulations.
 
 SystemDynamics: dynamics model is defined here.
 
-ParametersSheet: include parameters used in simulations.
+ParametersSheet: include parameters used in the simulations.
 
 SwitchingSignal: define the switching signal used.
 
