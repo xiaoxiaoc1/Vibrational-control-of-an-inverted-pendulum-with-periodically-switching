@@ -14,3 +14,8 @@ ANIMATION_IP2p: creat videos for the motions of inverted pendulum in the simulat
 rotation: define rotation matrix of inverted pendulum in different angles.
 
 vib_amplitude: define the amplitude of dithers.
+
+# Videos
+InvertedPendulumSim: animations of the inverted pendulum stabilized by vibrational control with switching.
+
+TrajectorySim: angular positions, velocity and switching signal in the simulations. 
