@@ -1,2 +1,8 @@
-# Vibrational-control-of-an-inverted-pendulum-with-periodically-switching
-An inverted pendulum can be stabilized by injecting dithers without measuring its angle and using feedback control. This dither-injecting open-loop control method is called vibrational control. A periodical switching signal is scheduling the on-and-off sequence of the dither injecting, which helps save the consumed energy.
+# Vib_Controller: run it for system trajectories of simulations.
+# SystemDynamics: dynamics model is defined here.
+# ParametersSheet: include parameters used in simulations.
+# SwitchingSignal: define the switching signal used.
+# EnergyConsumption: compare energy consumption before and after using switching.
+# ANIMATION_IP2p: creat videos for the motions of inverted pendulum in the simulations
+# rotation: define rotation matrix of inverted pendulum in different angles
+# vib_amplitude: define the amplitude of dithers
